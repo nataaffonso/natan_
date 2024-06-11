@@ -1,6 +1,5 @@
-body{background-color: rgb(202, 36, 36);}
 
-.p1 {font-size: 200%;
+p1 {font-size: 200%;
   text-align: center;  
   background-color: blue;
   border-color: azure;
@@ -10,20 +9,32 @@ margin-left:20%;
 margin-right:15%;
 padding: left 10%;
 padding: top 20px;
-margin-left: 55%;}
-p2{font-size: 200%;
+margin-left: 28%;
+}
+
+p2 {font-size: 200%;
   text-align: center;  
-  background-color: rgb(0, 225, 255);
-  border-color: rgb(47, 57, 190);
+  background-color: blue;
+  border-color: azure;
   border-width: 6px;
 border-style:double;
 margin-left:20%;
 margin-right:15%;
 padding: left 10%;
 padding: top 20px;
-margin-top: 56%;}
+margin-top: 20%;}
 p3 {font-size: 200%;
-  text-align: center;  
+  text-align: center;  p3 {font-size: 200%;
+    text-align: center;  
+    background-color: blue;
+    border-color: azure;
+    border-width: 6px;
+  border-style:double;
+  margin-left:20%;
+  margin-right:15%;
+  padding: left 10%;
+  padding: top 20px;
+  margin-left: 20%;}
   background-color: rgb(143, 143, 163);
   border-color: rgb(100, 25, 199);
   border-width: 6px;
@@ -35,8 +46,8 @@ padding: top 20px;
 margin-right: 57%;}
 @media only screen and (max-width: 500px) {
   body {
-    background-color: lightblue;
-  }
+
+  
 }
 p4 {font-size: 200%;
   text-align: center;  
@@ -76,6 +87,7 @@ p7 {font-size: 200%;
   background-color: rgba(255, 0, 85, 0.452);
   border-color: rgb(42, 165, 165);
   border-width: 6px;
+}
 border-style:double;
 margin-left:20%;
 margin-right:15%;
