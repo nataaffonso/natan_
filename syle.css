@@ -3,7 +3,7 @@
 
     body {background-color:rgba(83, 144, 236, 0.973)
     }
-    }
+    border{
     .p1 {font-size: 200%;
     text-align: center;
     background-color: brown;
@@ -15,9 +15,10 @@
     padding-left: 1%;
     padding-top: 3%;
     color: aliceblue;
-   
-    margin-left: 40%;}
     
+    margin-left: 40%;}
+
+    border{
     .p2 {font-size: 200%;
          text-align: center;
         background-color: rgb(241, 42, 42);
@@ -29,8 +30,10 @@
         padding-left: 1%;
         padding-top: 2%;
         color: aliceblue;
+        
         margin-right: 40%;}
    
+border{
         .p3 {font-size: 180%;
     text-align: center;
     background-color: rgb(233, 58, 14);
@@ -42,8 +45,10 @@
     padding-left: 3%;
     padding-top: 2%;
     color: aliceblue;
-            margin-left: 40%;}
-    
+           
+    margin-left: 40%;}
+           
+    border{
      .p4 {font-size: 200%;
      text-align: center;
      background-color: rgb(240, 185, 33);
@@ -55,9 +60,10 @@
     padding-left: 1%;
     padding-top: 2%;
     color: aliceblue;
-     margin-right: 40%;}
     
-     
+    margin-right: 40%;}
+    
+     border{
      .p5 {font-size: 200%;
         text-align: center;
         background-color: rgb(24, 185, 33);
@@ -69,8 +75,10 @@
        padding-left: 5%;
        padding-top: 1%;
        color: aliceblue;
-        margin-left: 40%;}
+        
+       margin-left: 40%;}
        
+        border{
         .p6 {font-size: 200%;
             text-align: center;
             background-color: rgb(92, 72, 204);
@@ -82,8 +90,10 @@
            padding-left: 5%;
            padding-top: 1%;
            color: aliceblue;
-            margin-right: 40%;}
+           
+           margin-right: 40%;}
     
+            border{      
      .p7  {font-size: 200%;
       text-align: center;
       background-color: rgb(243, 56, 134);
@@ -95,8 +105,10 @@
       padding-left: 5%;
        padding-top: 1%;
        color: aliceblue;
-               margin-left: 40%; }
+             
+       margin-left: 40%; }
     
+       border{        
      .p8 {font-size: 200%;
     text-align: center;
      background-color: rgb(92, 72, 204);
@@ -108,8 +120,10 @@
       padding-left: 5%;
       padding-top: 1%;
       color: aliceblue;
-         margin-right: 40%;}
+        
+      margin-right: 40%;}
     
+         border{
          .p9  {font-size: 200%;
       text-align: center;
       background-color: rgb(25, 0, 117);
@@ -121,8 +135,10 @@
       padding-left: 5%;
        padding-top: 1%;
        color: aliceblue;
-         margin-right: 40%;}
+        
+       margin-right: 40%;}
     
+         border{
          .p10 {font-size: 200%;
             text-align: center;
              background-color: rgb(109, 89, 0);
@@ -134,7 +150,8 @@
               padding-left: 5%;
               padding-top: 1%;
            color: aliceblue;
-            margin-left: 40%;}
+           
+           margin-left: 40%;}
     
 
 
